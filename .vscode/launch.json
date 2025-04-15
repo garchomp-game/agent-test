@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-KotlinThymeleafDemoApplication",
+      "request": "launch",
+      "mainClass": "com.example.kotlin_thymeleaf_demo.KotlinThymeleafDemoApplication",
+      "projectName": "kotlin-thymeleaf-demo.main",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

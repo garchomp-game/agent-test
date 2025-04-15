@@ -1,0 +1,39 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    // --- Added Settings ---
+    // Default formatter settings
+    "[kotlin]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[java]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    // Format on save
+    "editor.formatOnSave": true,
+    // Gradle settings
+    "java.import.gradle.enabled": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    // Editor settings for better readability/debugging
+    "java.inlayHints.parameterNames.enabled": "all", // Show parameter names
+    "kotlin.inlayHints.parameterNames.enabled": true,
+    "kotlin.inlayHints.typeHints.enabled": true
+    // --- End Added Settings ---
+}

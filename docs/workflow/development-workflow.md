@@ -21,7 +21,7 @@ gantt
     データベース設計               :done, db_design, 2025-04-15, 1d
     
     section 2. ユーザー管理
-    ユーザーモデル実装             :user1, after setup, 2d
+    ユーザーモデル実装             :active, user1, after setup, 2d
     ユーザー登録機能               :user2, after user1, 1d
     ログイン・ログアウト機能       :user3, after user2, 1d
     

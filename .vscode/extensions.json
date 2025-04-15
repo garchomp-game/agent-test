@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "kotlin.kotlin", // Kotlin language support
+    "vscjava.vscode-java-pack", // Extension Pack for Java
+    "vmware.vscode-spring-boot", // Spring Boot Extension Pack
+    "vscjava.vscode-gradle", // Gradle for Java
+    "pot.pot-vscode-thymeleaf", // Thymeleaf support
+    "esbenp.prettier-vscode", // Prettier - Code formatter
+    "dbaeumer.vscode-eslint" // ESLint for potential frontend JS/TS
+  ]
+}
